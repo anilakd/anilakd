@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, My name is Anıl 👋
 
 ⚡I'm an Electrical and Electronics student at Marmara University
 
