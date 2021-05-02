@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 ⚡I'm an Electrical and Electronics student at Marmara University
+
 💻 I’m currently learning Java and React
+
 📱 I’m also interested in Mobil Development
+
 🐣If there is a problem, I can spend hours solving it.
 
 
