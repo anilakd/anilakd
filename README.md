@@ -2,12 +2,17 @@
 
 ⚡I'm an Electrical and Electronics student at Marmara University
 
-💻 I’m currently learning Java and React
+😄I want to work as a software developer.
 
-📱 I’m also interested in Mobil Development
+❗❗❗ And so ;
+
+💻 I’m currently learning Java and React in a course (Kodlama.io) 
+
+📱 I’m also interested in Mobil Development ( Java Android + Flutter )
 
 🐣If there is a problem, I can spend hours solving it.
 
+🤔Sometimes I am interested in embedded software with C and C++.
 
 
 <!--
