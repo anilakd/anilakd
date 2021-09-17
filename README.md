@@ -8,11 +8,10 @@
 
 💻 I’m currently learning Java and React in a course (Kodlama.io) 
 
-📱 I’m also interested in Mobil Development ( Java Android + Flutter )
+📱 I’m also interested in Mobil Developmen
 
 🐣If there is a problem, I can spend hours solving it.
 
-🤔Sometimes I am interested in embedded software with C and C++.
 
 
 <!--
