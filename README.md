@@ -8,7 +8,7 @@
 
 💻 I’m currently learning Java and React in a course (Kodlama.io) 
 
-📱 I’m also interested in Mobil Developmen
+📱 I’m also interested in Mobil Development
 
 🐣If there is a problem, I can spend hours solving it.
 
