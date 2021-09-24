@@ -6,7 +6,7 @@
 
 ❗❗❗ And so ;
 
-💻 I’m currently learning Java and React in a course (Kodlama.io) 
+💻 I’m currently learning Java and React
 
 📱 I’m also interested in Mobil Development
 
