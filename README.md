@@ -2,15 +2,12 @@
 
 ⚡I'm an Electrical and Electronics student at Marmara University
 
-😄I want to work as a software developer.
+I want to work as a software developer.
 
-❗❗❗ And so ;
+❗ And so ;
 
 💻 I’m currently learning Java and React
 
-📱 I’m also interested in Mobil Development
-
-🐣If there is a problem, I can spend hours solving it.
 
 
 
